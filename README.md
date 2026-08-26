@@ -13,6 +13,8 @@ I also enjoy debugging, building logic, solving problems, and finding better sol
 - HTML5
 - Modern CSS3
 - JavaScript (ES6+)
+- Git
+- GitHub 
 
 🚀 Currently Learning
 
