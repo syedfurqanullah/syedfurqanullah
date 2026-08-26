@@ -8,7 +8,7 @@ I enjoy turning ideas into clean, functional, and user-friendly websites while c
 
 I also enjoy debugging, building logic, solving problems, and finding better solutions while working on projects.
 
-🛠️ Tech Stack
+🛠️ Technologies 
 
 - HTML5
 - Modern CSS3
