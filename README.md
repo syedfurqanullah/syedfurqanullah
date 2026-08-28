@@ -38,5 +38,6 @@ I’m currently strengthening my foundation in HTML, CSS, and JavaScript before 
 
 📫 Connect With Me
 
-- GitHub: "@syedfurqanullah" (https://github.com/syedfurqanullah)
-- LinkedIn: "Syed Furqan Ullah" (https://www.linkedin.com/in/syed-furqan-ullah/)
+- LinkedIn: https://www.linkedin.com/in/syed-furqan-ullah/
+- GitHub: https://github.com/syedfurqanullah
+- Email: syedfurqanullahh@gmail.com
