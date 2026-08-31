@@ -1,18 +1,64 @@
+<h1 align="center">Hi, I'm Syed Furqan Ullah 👋</h1>
+<h3 align="center">Frontend Developer | UI/UX Focused | Building Modern Web Experiences</h3>
 
-👋 Hi, I'm Syed Furqan Ullah<br><br>💻 Frontend Developer<br><br>I’m a Frontend Developer focused on building modern, premium, responsive UI/UX Design, and interactive web experiences using HTML5, Modern CSS3, and JavaScript (ES6+).<br><br>I enjoy turning ideas into clean, functional, and user-friendly websites while continuously improving my frontend development skills.<br><br>I also enjoy debugging, building logic, solving problems, and finding better solutions while working on projects.<br><br>🚀 Currently Learning<br>- React.js<br>- Next.js<br>- Modern frontend development practices<br><br>📌 Featured Project<br><br>🚀 Nova AI Automation<br><br>A modern and fully responsive AI SaaS landing page built with HTML5, Modern CSS3, and JavaScript (ES6+).<br><br>🔗 Live Demo: https://nova-ai-automation.netlify.app/
+<p align="center">
+  I'm a Frontend Developer focused on building modern, premium, responsive UI/UX designs and interactive web experiences using <b>HTML5, Modern CSS3, and JavaScript (ES6+)</b>.
+</p>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-furqan-ullah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syedfurqanullahh@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=syedfurqanullah&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=syedfurqanullah&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=syedfurqanullah&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  I enjoy turning ideas into clean, functional, and user-friendly websites — and I love debugging, building logic, solving problems, and finding better solutions while working on real projects.
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=syedfurqanullah&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 Currently Learning
+- React.js
+- Next.js
+- Modern frontend development practices
+
+---
+
+### 📌 Featured Project
+
+**🚀 Nova AI Automation**
+A modern and fully responsive AI SaaS landing page built with HTML5, Modern CSS3, and JavaScript (ES6+).
+
+🔗 Live Demo: [nova-ai-automation.netlify.app](https://nova-ai-automation.netlify.app/)
+
+---
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syedfurqanullah)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+---
+
+### 🛠️ Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedfurqanullah&show_icons=true&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=syedfurqanullah&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedfurqanullah&layout=compact&theme=radical&hide_border=true)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=syedfurqanullah&color=blueviolet&style=flat" alt="Profile Views"/>
+</p>
