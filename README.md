@@ -54,4 +54,5 @@ A modern and fully responsive AI SaaS landing page built with HTML5, Modern CSS3
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=syedfurqanullah&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=syedfurqanullah&icon=0&color=0)]
+
+[![](https://komarev.com/ghpvc/?username=syedfurqanullah&color=blueviolet)](https://visitcount.itsvg.in)
