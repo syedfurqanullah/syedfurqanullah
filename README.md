@@ -49,16 +49,11 @@ A modern and fully responsive AI SaaS landing page built with HTML5, Modern CSS3
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syedfurqanullah&show_icons=true&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=syedfurqanullah&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syedfurqanullah&layout=compact&theme=radical&hide_border=true)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=syedfurqanullah&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=syedfurqanullah&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=syedfurqanullah&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=syedfurqanullah&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=syedfurqanullah&color=blueviolet&style=flat" alt="Profile Views"/>
-</p>
