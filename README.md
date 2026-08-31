@@ -55,4 +55,4 @@ A modern and fully responsive AI SaaS landing page built with HTML5, Modern CSS3
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=syedfurqanullah&color=blueviolet)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=syedfurqanullah&color=2f81f7&style=for-the-badge)](https://visitcount.itsvg.in)
