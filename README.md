@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  I enjoy turning ideas into clean, functional, and user-friendly websites — and I love debugging, building logic, solving problems, and finding better solutions while working on real projects.
+  I enjoy turning ideas into clean, functional, and user-friendly websites — and I enjoy debugging, building logic, solving problems, and finding better solutions while working on real projects.
 </p>
 
 ---
