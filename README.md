@@ -25,7 +25,8 @@ A modern and fully responsive AI SaaS landing page built with HTML5, Modern CSS3
 
 🔗 Live Demo: [nova-ai-automation.netlify.app](https://nova-ai-automation.netlify.app/)
 
-CineVerse is a modern movie discovery frontend built with HTML, Modern CSS, JavaScript(ES6+) and Fetch API. 
+**🎬CineVerse Movie Discovery** 
+is a modern movie discovery frontend built with HTML, Modern CSS, JavaScript(ES6+) and Fetch API. 
 
 🔗 Live Demo: [cineverse-movie-discovery.netlify.app](https://cineverse-movie-discovery.netlify.app/)
 
