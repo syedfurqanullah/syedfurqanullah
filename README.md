@@ -53,7 +53,7 @@ is a modern movie discovery frontend built with HTML, Modern CSS, JavaScript(ES6
 ---
 
 # 📊 GitHub Stats:
-![](https://streak-stats.demolab.com/?user=syedfurqanullah&theme=tokynight&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=syedfurqanullah&theme=tokynight_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=syedfurqanullah&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
