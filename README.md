@@ -87,6 +87,6 @@ https://cineverse-movie-discovery.netlify.app/
 
 ---
 
-<p align="center">
+<p>
 <img src="https://komarev.com/ghpvc/?username=syedfurqanullah&color=7AA2F7&style=for-the-badge">
 </p>
