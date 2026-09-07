@@ -80,11 +80,6 @@ https://cineverse-movie-discovery.netlify.app/
 <p>
 <img src="https://streak-stats.demolab.com/?user=syedfurqanullah&theme=tokyonight&hide_border=false">
 </p>
-
-<p>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=syedfurqanullah&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
-</p>
-
 ---
 
 <p>
