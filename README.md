@@ -80,7 +80,6 @@ https://cineverse-movie-discovery.netlify.app/
 <p>
 <img src="https://streak-stats.demolab.com/?user=syedfurqanullah&theme=tokyonight&hide_border=false">
 </p>
----
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=syedfurqanullah&color=7AA2F7&style=for-the-badge">
