@@ -33,7 +33,14 @@ A modern and fully responsive AI SaaS landing page built with HTML5, Modern CSS3
 and JavaScript (ES6+).
 
 🔗 Live Demo:  
-https://nova-ai-automation.netlify.app/
+[View Nova Ai Automation](https://nova-ai-automation.netlify.app/)
+
+**☀️ SkyPulse Weather App**
+
+A modern sky pulse weather app frontend bulit with HTML, Modern CSS, JavaScript (ES6) and Fetch Api.
+
+🔗 Live Demo:  
+[View SkyPulse Weather App](https://sky-pulse-weather-app.netlify.app/)
 
 **🎬 CineVerse Movie Discovery**
 
@@ -41,7 +48,7 @@ A modern movie discovery frontend built with HTML, Modern CSS, JavaScript (ES6+)
 and Fetch API.
 
 🔗 Live Demo:  
-https://cineverse-movie-discovery.netlify.app/
+[View CineVerse Movie Discovery](https://cineverse-movie-discovery.netlify.app/)
 
 ---
 
