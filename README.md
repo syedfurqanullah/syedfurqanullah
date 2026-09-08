@@ -44,7 +44,7 @@ A modern sky pulse weather app frontend bulit with HTML, Modern CSS, JavaScript 
 
 **🎬 CineVerse Movie Discovery**
 
-A modern movie discovery frontend built with HTML, Modern CSS, JavaScript (ES6+),  Fetch API and TMDB API.
+A modern movie discovery frontend built with HTML, Modern CSS, JavaScript (ES6+),  Fetch API and TMDB API for movie data.
 
 🔗 Live Demo:  
 [View CineVerse Movie Discovery](https://cineverse-movie-discovery.netlify.app/)
