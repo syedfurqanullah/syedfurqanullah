@@ -57,7 +57,7 @@ A modern movie discovery frontend built with HTML, Modern CSS, JavaScript (ES6+)
 <a href="https://www.linkedin.com/in/syedfurqanullah">
 <img src="https://img.shields.io/badge/LinkedIn-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="syedfurqanullahh@gmail.com">
+<a href="mailto:syedfurqanullahh@gmail.com">
 <img src="https://img.shields.io/badge/Email-BB9AF7?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 </p>
