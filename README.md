@@ -6,7 +6,7 @@ Frontend Developer | UI/UX Focused | Building Modern Web Experiences
 
 <p align="center">
 I'm a Frontend Developer focused on building modern, premium, responsive UI/UX designs
-and interactive web experiences using <b>HTML5, Modern CSS3, and JavaScript (ES6+)</b>.
+and interactive web experiences using <b>HTML5, Modern CSS3, JavaScript(ES6+) and API Integration</b>.
 </p>
 
 <p align="center">
