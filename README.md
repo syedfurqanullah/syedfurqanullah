@@ -49,8 +49,15 @@ A modern movie discovery frontend built with HTML, Modern CSS, JavaScript (ES6+)
 🔗 Live Demo:  
 [View CineVerse Movie Discovery](https://cineverse-movie-discovery.netlify.app/)
 
----
+**🎮 Naxvy Gaming E-commerce Landing page 
 
+A modern gaming e-commerce frontend built with HTML, Modern CSS, and JavaScript (ES6+), featuring product browsing, search, cart, wishlist, and a custom gaming setup builder.
+
+
+🔗 Live Demo:  
+[view Naxvy Gaming E-commerce](https://naxvy-gaming.netlify.app/)
+
+---
 ### 🌐 Connect With Me
 
 <p>
