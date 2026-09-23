@@ -90,6 +90,10 @@ A modern movie discovery frontend built with HTML, Modern CSS, JavaScript (ES6+)
 # 📊 GitHub Stats
 
 <p>
+  <img src="https://github-readme-stats.shion.dev/api?username=syedfurqanullah&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true">
+</p>
+
+<p>
 <img src="https://streak-stats.demolab.com/?user=syedfurqanullah&theme=tokyonight&hide_border=false">
 </p>
 
