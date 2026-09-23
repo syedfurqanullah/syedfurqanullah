@@ -19,9 +19,7 @@ on real projects.
 
 ### 🚀 Currently Learning
 
-- React.js
-- Next.js
-- Modern frontend development practices
+Continuously learning new technologies, exploring modern web development practices, AI-assisted development, and improving my debugging and problem-solving skills.
 
 ---
 
