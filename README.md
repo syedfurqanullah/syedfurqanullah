@@ -33,7 +33,7 @@ and JavaScript (ES6+).
 🔗 Live Demo:  
 [View Nova Ai Automation](https://nova-ai-automation.netlify.app/)
 
-**🎮 Naxvy Gaming E-commerce Frontend**
+**🎮 Naxvy Gaming E-commerce**
 
 A modern gaming e-commerce frontend built with HTML, Modern CSS, and JavaScript (ES6+), featuring product browsing, search, cart, wishlist, and a custom gaming setup builder.
 
