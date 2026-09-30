@@ -25,7 +25,7 @@ Continuously learning new technologies, exploring modern web development practic
 
 ### 📌 Featured Projects
 
-**🚀 Nova AI Automation SaaS Landing page**
+**🚀 Nova AI Automation SaaS Landing Page**
 
 A modern and fully responsive AI SaaS landing page built with HTML5, Modern CSS3,
 and JavaScript (ES6+).
@@ -33,7 +33,7 @@ and JavaScript (ES6+).
 🔗 Live Demo:  
 [View Nova Ai Automation](https://nova-ai-automation.netlify.app/)
 
-**🎮 Naxvy Gaming E-commerce**
+**🎮 Naxvy Gaming E-commerce Frontend**
 
 A modern gaming e-commerce frontend built with HTML, Modern CSS, and JavaScript (ES6+), featuring product browsing, search, cart, wishlist, and a custom gaming setup builder.
 
