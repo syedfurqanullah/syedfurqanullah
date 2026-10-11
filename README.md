@@ -23,38 +23,6 @@ Continuously learning new technologies, exploring modern web development practic
 
 ---
 
-### 📌 Featured Projects
-
-**🚀 Nova AI Automation SaaS Landing Page**
-
-A modern and fully responsive AI SaaS landing page built with HTML5, Modern CSS3,
-and JavaScript (ES6+).
-
-🔗 Live Demo:  
-[View Nova Ai Automation](https://nova-ai-automation.netlify.app/)
-
-**🎮 Naxvy Gaming E-commerce**
-
-A modern gaming e-commerce frontend built with HTML, Modern CSS, and JavaScript (ES6+), featuring product browsing, search, cart, wishlist, and a custom gaming setup builder.
-
-🔗 Live Demo:  
-[view Naxvy Gaming E-commerce](https://naxvy-gaming.netlify.app/)
-
-**☀️ SkyPulse Weather App**
-
-A modern sky pulse weather app frontend bulit with HTML, Modern CSS, JavaScript (ES6) and Fetch Api.
-
-🔗 Live Demo:  
-[View SkyPulse Weather App](https://sky-pulse-weather-app.netlify.app/)
-
-**🎬 CineVerse Movie Discovery**
-
-A modern movie discovery frontend built with HTML, Modern CSS, JavaScript (ES6+),  Fetch API and TMDB API for movie data.
-
-🔗 Live Demo:  
-[View CineVerse Movie Discovery](https://cineverse-movie-discovery.netlify.app/)
-
----
 ### 🌐 Connect With Me
 
 <p>
