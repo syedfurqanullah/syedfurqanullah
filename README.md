@@ -63,7 +63,7 @@ Continuously learning new technologies, exploring modern web development practic
 <img src="https://streak-stats.demolab.com/?user=syedfurqanullah&theme=tokyonight&hide_border=false">
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedfurqanullah&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
