@@ -64,5 +64,13 @@ Continuously learning new technologies, exploring modern web development practic
 </p>
 
 <p>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=syedfurqanullah&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</p>
+
+<p>
 <img src="https://komarev.com/ghpvc/?username=syedfurqanullah&color=7AA2F7&style=for-the-badge">
 </p>
+
+
+
