@@ -64,7 +64,7 @@ Continuously learning new technologies, exploring modern web development practic
 </p>
 
 <p>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=syedfurqanullah&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-stats.shion.dev/api/top-langs/ username=syedfurqanullah&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 
 </p>
 
