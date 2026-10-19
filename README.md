@@ -56,8 +56,9 @@ Continuously learning new technologies, exploring modern web development practic
 # 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.shion.dev/api?username=syedfurqanullah&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=syedfurqanullah&theme=tokyonight&hide_border=false&include_all_commits=true&show_icons=true" alt="GitHub Stats" />
 </p>
+
 
 <p>
 <img src="https://streak-stats.demolab.com/?user=syedfurqanullah&theme=tokyonight&hide_border=false">
