@@ -25,7 +25,7 @@ Continuously learning new technologies, exploring modern web development practic
 
 ### 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://syedfurqanullah.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-7DCFFF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio">
@@ -53,7 +53,7 @@ Continuously learning new technologies, exploring modern web development practic
 
 ### 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-F7768E?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-7AA2F7?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Bootstrap-BB9AF7?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
