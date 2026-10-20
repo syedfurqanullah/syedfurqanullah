@@ -26,7 +26,7 @@ Continuously learning new technologies, exploring modern web development practic
 ### 🌐 Connect With Me
 
 <p align="left">
-  
+
 <a href="https://syedfurqanullah.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-7DCFFF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio">
 </a>
@@ -40,16 +40,18 @@ Continuously learning new technologies, exploring modern web development practic
 <a href="https://github.com/syedfurqanullah">
   <img src="https://img.shields.io/badge/GitHub-24283B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
-<a href="YOUR_FACEBOOK_URL">
+<a href="https://www.facebook.com/syed.furqanullahh">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
 </a>
 <a href="YOUR_INSTAGRAM_URL">
   <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
-<a href="YOUR_X_URL">
+<a href="https://x.com/syedfurqanullah">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
 </a>
+
 </p>
+
 
 ---
 
