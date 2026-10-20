@@ -111,13 +111,9 @@ Explore my projects and web development journey.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedfurqanullah&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Top Languages">
 </p>
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=syedfurqanullah&color=7AA2F7&style=for-the-badge"
-    alt="Profile views"
-  />
-</p>
-
+<p>
+<img src="https://komarev.com/ghpvc/?username=syedfurqanullah&color=7AA2F7&style=for-the-badge">
+</p> 
 
 
 
