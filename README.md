@@ -59,13 +59,15 @@ Continuously learning new technologies, exploring modern web development practic
   <img src="https://github-readme-stats.vercel.app/api?username=syedfurqanullah&theme=tokyonight&hide_border=false&include_all_commits=true&show_icons=true" alt="GitHub Stats" />
 </p>
 
-
 <p>
 <img src="https://streak-stats.demolab.com/?user=syedfurqanullah&theme=tokyonight&hide_border=false">
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedfurqanullah&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedfurqanullah&theme=tokyonight&hide_border=true&layout=compact&langs_count=6"
+    alt="Top Languages"
+  />
 </p>
 
 <p>
