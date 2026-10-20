@@ -53,18 +53,21 @@ Continuously learning new technologies, exploring modern web development practic
 
 ### 🛠️ Tech Stack
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-F7768E?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-7AA2F7?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Bootstrap-BB9AF7?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-E0AF68?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/React-7DCFFF?style=for-the-badge&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/Next.js-24283B?style=for-the-badge&logo=nextdotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F7768E?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-24283B?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Netlify-7DCFFF?style=for-the-badge&logo=netlify&logoColor=white">
-<img src="https://img.shields.io/badge/Vercel-24283B?style=for-the-badge&logo=vercel&logoColor=white">
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-F7768E?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-7AA2F7?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Bootstrap-BB9AF7?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/JavaScript-E0AF68?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-7DCFFF?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Next.js-24283B?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=black" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Git-F7768E?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-24283B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Netlify-7DCFFF?style=for-the-badge&logo=netlify&logoColor=black" alt="Netlify">
+  <img src="https://img.shields.io/badge/Vercel-24283B?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
 </p>
+
 
 ---
 
