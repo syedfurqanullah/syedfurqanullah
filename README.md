@@ -82,19 +82,17 @@ Explore my projects and web development journey.
 # 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=syedfurqanullah&theme=tokyonight&hide_border=false&include_all_commits=true&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=syedfurqanullah&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true" alt="GitHub Stats">
 </p>
 
 <p>
-<img src="https://streak-stats.demolab.com/?user=syedfurqanullah&theme=tokyonight&hide_border=false">
+  <img src="https://streak-stats.demolab.com/?user=syedfurqanullah&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </p>
 
 <p>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedfurqanullah&theme=tokyonight&hide_border=true&layout=compact&langs_count=6"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedfurqanullah&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Top Languages">
 </p>
+
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=syedfurqanullah&color=7AA2F7&style=for-the-badge">
