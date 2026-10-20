@@ -25,6 +25,8 @@ Continuously learning new technologies, exploring modern web development practic
 
 ### 🌐 Connect With Me
 
+<p align="left">
+  
 <a href="https://syedfurqanullah.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-7DCFFF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio">
 </a>
