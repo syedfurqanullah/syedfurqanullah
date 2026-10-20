@@ -25,13 +25,17 @@ Continuously learning new technologies, exploring modern web development practic
 
 ### 🌐 Connect With Me
 
-<p>
-<a href="https://www.linkedin.com/in/syedfurqanullah">
-<img src="https://img.shields.io/badge/LinkedIn-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://syedfurqanullah.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-7DCFFF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio">
 </a>
 <a href="mailto:syedfurqanullahh@gmail.com">
-<img src="https://img.shields.io/badge/Email-BB9AF7?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/Email-BB9AF7?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+<p>
+<a href="https://www.linkedin.com/in/syedfurqanullah">
+  <img src="https://img.shields.io/badge/LinkedIn-7AA2F7?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
 </p>
 
 ---
