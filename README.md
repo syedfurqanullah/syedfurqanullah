@@ -70,13 +70,9 @@ Continuously learning new technologies, exploring modern web development practic
   />
 </p>
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=syedfurqanullah&label=PROFILE%20VIEWS&color=7AA2F7&style=for-the-badge"
-    alt="GitHub Profile Views"
-  />
-</p>
-
+<p>
+<img src="https://komarev.com/ghpvc/?username=syedfurqanullah&color=7AA2F7&style=for-the-badge">
+</p> 
 
 
 
