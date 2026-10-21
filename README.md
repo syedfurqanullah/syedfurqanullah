@@ -83,10 +83,9 @@ Continuously learning new technologies, exploring modern web development practic
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedfurqanullah&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Top Languages">
 </p>
 
-
-
-![Profile Views](https://count.getloli.com/@syedfurqanullah?name=syedfurqanullah&theme=booru-lewd&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
-
+<p>
+<img src="https://komarev.com/ghpvc/?username=syedfurqanullah&color=7AA2F7&style=for-the-badge">
+</p>
 
 
 
