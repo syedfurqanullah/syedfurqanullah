@@ -83,9 +83,9 @@ Continuously learning new technologies, exploring modern web development practic
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedfurqanullah&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Top Languages">
 </p>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=syedfurqanullah&color=7AA2F7&style=for-the-badge">
-</p> 
+
+![Profile Views](https://komarev.com/ghpvc/?username=syedfurqanullah&color=7AA2F7&style=for-the-badge)
+
 
 
 
