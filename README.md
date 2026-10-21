@@ -48,7 +48,6 @@ Continuously learning new technologies, exploring modern web development practic
 
 </p>
 
-
 ---
 
 ### 🛠️ Tech Stack
@@ -68,75 +67,7 @@ Continuously learning new technologies, exploring modern web development practic
   <img src="https://img.shields.io/badge/Vercel-24283B?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
 </p>
 
-
 ---
-
-<h2 align="left">🚀 Featured Projects</h2>
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center"> 🤖 Nova AI Automation Frontend </h3>
-      <p align="center">
-       Nova AI automation SaaS business landing page
-      </p>
-      <p align="center">
-        <strong>HTML · Modern CSS · JavaScript (ES6+)</strong>
-      </p>
-      <p align="center">
-        <a href="YOUR_REPO_LINK">View Repository</a>
-        |
-        <a href="YOUR_LIVE_DEMO_LINK">Live Demo</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🎬 CineVerse Movie Discovery</h3>
-      <p align="center">
-   A movie discovery application powered by API data.
-      </p>
-      <p align="center">
-        <strong>HTML · Modern CSS · JavaScript(ES6+) · API Integration </strong>
-      </p>
-      <p align="center">
-        <a href="YOUR_REPO_LINK">View Repository</a>
-        |
-        <a href="YOUR_LIVE_DEMO_LINK">Live Demo</a>
-      </p>
-        </td>
-    <tr>
-          <td width="50%">
-      <h3 align="center">💼 HireFlow Job Hub Platformy</h3>
-      <p align="center">
-A job hub frontend project built with React.js and Tailwind CSS.
-      </p>
-      <p align="center">
-        <strong>React · Tailwind CSS · JavaScript(ES6+) · API Integration </strong>
-      </p>
-      <p align="center">
-        <a href="YOUR_REPO_LINK">View Repository</a>
-        |
-        <a href="YOUR_LIVE_DEMO_LINK">Live Demo</a>
-      </p>
-    </td>
-      <td width="50%">
-      <h3 align="center">🌐 Personal Portfolioy</h3>
-      <p align="center">
-
-Explore my projects and web development journey.
-      </p>
-      <p align="center">
-        <strong>HTML · Modern CSS · JavaScript(ES6+)</strong>
-      </p>
-      <p align="center">
-        <a href="YOUR_REPO_LINK">View Repository</a>
-        |
-        <a href="YOUR_LIVE_DEMO_LINK">Live Demo</a>
-      </p>
-    </td>
-  </tr>
-  </tr>
-  
-</table>
 
 # 📊 GitHub Stats
 
