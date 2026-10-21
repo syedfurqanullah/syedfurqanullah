@@ -118,12 +118,13 @@ A job hub frontend project built with React.js and Tailwind CSS.
       </p>
     </td>
       <td width="50%">
-      <h3 align="center">💼 HireFlow Job Hub Platformy</h3>
+      <h3 align="center">🌐 Personal Portfolioy</h3>
       <p align="center">
-A job hub frontend project built with React.js and Tailwind CSS.
+
+Explore my projects and web development journey.
       </p>
       <p align="center">
-        <strong>React · Tailwind CSS · JavaScript(ES6+) · API Integration </strong>
+        <strong>HTML · Modern CSS · JavaScript(ES6+)</strong>
       </p>
       <p align="center">
         <a href="YOUR_REPO_LINK">View Repository</a>
