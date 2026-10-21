@@ -103,6 +103,7 @@ Continuously learning new technologies, exploring modern web development practic
         <a href="YOUR_LIVE_DEMO_LINK">Live Demo</a>
       </p>
         </td>
+    <tr>
           <td width="50%">
       <h3 align="center">💼 HireFlow Job Hub Platformy</h3>
       <p align="center">
@@ -132,7 +133,7 @@ Explore my projects and web development journey.
         <a href="YOUR_LIVE_DEMO_LINK">Live Demo</a>
       </p>
     </td>
-  
+  </tr>
   </tr>
   
 </table>
