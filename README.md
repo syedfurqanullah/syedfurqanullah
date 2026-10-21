@@ -71,31 +71,70 @@ Continuously learning new technologies, exploring modern web development practic
 
 ---
 
-🚀 Featured Projects
+<h2 align="left">🚀 Featured Projects</h2>
 
-🤖 Nova AI Automation Frontend SaaS
-
-An AI automation SaaS business landing page.
-
-🔗 Live Demo: https://nova-ai-automation.netlify.app/
-
-🎬 CineVerse Movie Discovery
-
-A movie discovery application powered by API data.
-
-🔗 Live Demo: https://cineverse-movie-discovery.netlify.app/
-
-💼 HireFlow Job Hub Platform
-
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center"> 🤖 Nova AI Automation Frontend </h3>
+      <p align="center">
+       Nova AI automation SaaS business landing page
+      </p>
+      <p align="center">
+        <strong>HTML · Modern CSS · JavaScript (ES6+)</strong>
+      </p>
+      <p align="center">
+        <a href="YOUR_REPO_LINK">View Repository</a>
+        |
+        <a href="YOUR_LIVE_DEMO_LINK">Live Demo</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎬 CineVerse Movie Discovery</h3>
+      <p align="center">
+   A movie discovery application powered by API data.
+      </p>
+      <p align="center">
+        <strong>HTML · Modern CSS · JavaScript(ES6+) · API Integration </strong>
+      </p>
+      <p align="center">
+        <a href="YOUR_REPO_LINK">View Repository</a>
+        |
+        <a href="YOUR_LIVE_DEMO_LINK">Live Demo</a>
+      </p>
+        </td>
+          <td width="50%">
+      <h3 align="center">💼 HireFlow Job Hub Platformy</h3>
+      <p align="center">
 A job hub frontend project built with React.js and Tailwind CSS.
-
-🔗 Live Demo: https://hireflow-job-hub.vercel.app/
-
-🌐 Personal Portfolio
-
-Explore my projects and web development journey.
-
-🔗 Live Portfolio: https://syedfurqanullah.netlify.app/
+      </p>
+      <p align="center">
+        <strong>React · Tailwind CSS · JavaScript(ES6+) · API Integration </strong>
+      </p>
+      <p align="center">
+        <a href="YOUR_REPO_LINK">View Repository</a>
+        |
+        <a href="YOUR_LIVE_DEMO_LINK">Live Demo</a>
+      </p>
+    </td>
+      <td width="50%">
+      <h3 align="center">💼 HireFlow Job Hub Platformy</h3>
+      <p align="center">
+A job hub frontend project built with React.js and Tailwind CSS.
+      </p>
+      <p align="center">
+        <strong>React · Tailwind CSS · JavaScript(ES6+) · API Integration </strong>
+      </p>
+      <p align="center">
+        <a href="YOUR_REPO_LINK">View Repository</a>
+        |
+        <a href="YOUR_LIVE_DEMO_LINK">Live Demo</a>
+      </p>
+    </td>
+  
+  </tr>
+  
+</table>
 
 # 📊 GitHub Stats
 
