@@ -6,7 +6,7 @@ Frontend Developer | UI/UX Focused | Building Modern Web Experiences
 
 <p align="center">
 I'm a Frontend Developer focused on building modern, premium, responsive UI/UX designs
-and interactive web experiences using <b>React.js, Tailwind CSS, Typescript, Nextjs and API Integration and AI Assistant Development</b>.
+and interactive web experiences using <b>React.js, Tailwind CSS,TypeScript and API Integration and AI Assistant Development</b>.
 </p>
 
 <p align="center">
@@ -59,7 +59,7 @@ Continuously learning new technologies, exploring modern web development practic
   <img src="https://img.shields.io/badge/JavaScript-E0AF68?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/React-7DCFFF?style=for-the-badge&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Next.js-24283B?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <!-- <img src="https://img.shields.io/badge/Next.js-24283B?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"> -->
   <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=black" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Git-F7768E?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-24283B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
