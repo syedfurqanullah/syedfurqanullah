@@ -6,7 +6,7 @@ Frontend Developer | UI/UX Focused | Building Modern Web Experiences
 
 <p align="center">
 I'm a Frontend Developer focused on building modern, premium, responsive UI/UX designs
-and interactive web experiences using <b>React.js, Tailwind CSS,TypeScript and API Integration and AI Assistant Development</b>.
+and interactive web experiences using <b>React.js, Tailwind CSS, TypeScript, Next.js and API Integration and AI Assistant Development</b>.
 </p>
 
 <p align="center">
