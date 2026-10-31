@@ -72,7 +72,7 @@ Continuously learning new technologies, exploring modern web development practic
 # 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=syedfurqanullah&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true" alt="GitHub Stats">
+ <img src="https://github-readme-stats.vercel.app/api?username=syedfurqanullah&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true" alt="GitHub Stats">
 </p>
 
 <p>
@@ -84,5 +84,5 @@ Continuously learning new technologies, exploring modern web development practic
 </p>
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=syedfurqanullah&color=7AA2F7&style=for-the-badge">
+  <img src="https://komarev.com/ghpvc/?username=syedfurqanullah&color=7AA2F7&style=for-the-badge">
 </p>
