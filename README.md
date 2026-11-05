@@ -71,17 +71,11 @@ Continuously learning new technologies, exploring modern web development practic
 
 # 📊 GitHub Stats
 
-<p>
- <img src="https://github-readme-stats.vercel.app/api?username=syedfurqanullah&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true" alt="GitHub Stats">
-</p>
+![](https://github-readme-stats.shion.dev/api?username=syedfurqanullah&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-<p>
-  <img src="https://streak-stats.demolab.com/?user=syedfurqanullah&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</p>
+![](https://streak-stats.demolab.com/?user=syedfurqanullah&theme=tokyonight&hide_border=false)<br/>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedfurqanullah&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Top Languages">
-</p>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=syedfurqanullah&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=syedfurqanullah&color=7AA2F7&style=for-the-badge">
