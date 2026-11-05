@@ -71,7 +71,7 @@ Continuously learning new technologies, exploring modern web development practic
 
 # 📊 GitHub Stats
 
-
+![](https://github-readme-stats.shion.dev/api?username=syedfurqanullah&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ![](https://streak-stats.demolab.com/?user=syedfurqanullah&theme=tokyonight&hide_border=false)<br/>
 
